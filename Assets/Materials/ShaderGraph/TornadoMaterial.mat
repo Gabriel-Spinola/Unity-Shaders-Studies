@@ -107,7 +107,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_: {r: 11.11477, g: 6.5969176, b: 0.5767098, a: 0}
+    - Color_: {r: 15.795817, g: 5.3084197, b: 0.8195944, a: 0}
     - NoiseSpeed_: {r: 0, g: 0.5, b: 0, a: 0}
     - TwirlCenter_: {r: 0.5, g: -0.5, b: 0, a: 0}
     - TwirlSpeed_: {r: 0, g: 0.5, b: 0, a: 0}
